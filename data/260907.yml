@@ -5,13 +5,13 @@ about:
   head: 9bc7ba7
   archived: false
   latestVersion: "v1.1.0"
-  collectedAt: 2026-09-07T06:15:29Z
+  collectedAt: 2026-09-07T18:19:58Z
 timeline:
   created: 2019-01-25
   lastCommit: 2022-10-06
   lastRelease: 2019-12-24
 popularity:
-  star: 14797
+  star: 14796
   watcher: 170
   fork: 667
   release: 7
@@ -80,7 +80,7 @@ total:
   commit: 276
 ---
 path: /home/runner/.x-repo/github.com/sqshq/sampler
-collectedAt: 2026-09-07T06:15:29Z
+collectedAt: 2026-09-07T18:19:59Z
 loc:
   Go:
     code: 3983
@@ -196,7 +196,7 @@ checks:
       - 'Warn: 0 commits out of 22 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:15:30+00:00
+  collectedAt: 2026-09-07T18:19:59+00:00
   platform:
     darwin/arm64:
       name:  null
