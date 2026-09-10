@@ -1,0 +1,128 @@
+- repo: nix_stable_24_11
+  srcname: sampler
+  visiblename: sampler
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: Tool for shell commands execution, visualization and alerting
+  maintainers:
+    - uv.nikita@gmail.com
+  licenses:
+    - GPL-3.0
+- repo: aur
+  srcname: sampler
+  binname: sampler
+  visiblename: sampler
+  version: 1.1.0
+  origversion: 1.1.0-1
+  status: newest
+  summary: A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+  maintainers:
+    - nicoulaj@aur
+  licenses:
+    - GPL3
+- repo: chocolatey
+  binname: sampler
+  visiblename: Sampler
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: Sampler is a tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+- repo: homebrew
+  srcname: sampler
+  visiblename: sampler
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: Tool for shell commands execution, visualization and alerting
+- repo: macports
+  srcname: devel/sampler
+  binname: sampler
+  visiblename: sampler
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: Sampler is a tool for shell commands execution, visualization and alerting.
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - GPL-3
+  categories:
+    - devel
+- repo: nix_stable_24_05
+  srcname: sampler
+  visiblename: sampler
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: Tool for shell commands execution, visualization and alerting
+  maintainers:
+    - uv.nikita@gmail.com
+  licenses:
+    - GPL-3.0
+- repo: nix_stable_25_05
+  srcname: sampler
+  visiblename: sampler
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: Tool for shell commands execution, visualization and alerting
+  maintainers:
+    - uv.nikita@gmail.com
+  licenses:
+    - GPL-3.0
+- repo: nix_stable_25_11
+  srcname: sampler
+  visiblename: sampler
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: Tool for shell commands execution, visualization and alerting
+  maintainers:
+    - uv.nikita@gmail.com
+  licenses:
+    - GPL-3.0
+- repo: nix_stable_26_05
+  srcname: sampler
+  visiblename: sampler
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: Tool for shell commands execution, visualization and alerting
+  maintainers:
+    - uv.nikita@gmail.com
+  licenses:
+    - GPL-3.0
+- repo: nix_unstable
+  srcname: sampler
+  visiblename: sampler
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: Tool for shell commands execution, visualization and alerting
+  maintainers:
+    - uv.nikita@gmail.com
+  licenses:
+    - GPL-3.0
+- repo: scoop
+  subrepo: main
+  binname: sampler
+  visiblename: sampler
+  version: 1.1.0
+  origversion: null
+  status: newest
+  licenses:
+    - GPL-3.0-or-later
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: sampler
+  binname: sampler
+  visiblename: sampler
+  version: 1.1.0
+  origversion: 1.1.0_4
+  status: newest
+  summary: Tool for shell commands execution, visualization and alerting
+  maintainers:
+    - orphan@voidlinux.org
+  licenses:
+    - GPL-3.0-only
