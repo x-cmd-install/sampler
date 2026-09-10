@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.1.0"
   latestRelease: "v1.1.0"
   latestPrerelease: "v0.9.1-beta"
-  collectedAt: 2026-09-10T21:08:49Z
+  collectedAt: 2026-09-10T22:52:46Z
 timeline:
   created: 2019-01-25
   lastCommit: 2022-10-06
@@ -84,7 +84,7 @@ total:
   commit: 276
 ---
 path: /home/runner/.x-repo/github.com/sqshq/sampler
-collectedAt: 2026-09-10T21:08:50Z
+collectedAt: 2026-09-10T22:52:48Z
 loc:
   Go:
     code: 3983
