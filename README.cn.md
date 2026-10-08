@@ -29,9 +29,9 @@ x install sampler
 
 评分最低的几项:
 
-- **Token-Permissions** (-1/10) — No tokens found
-- **Code-Review** (4/10) — Found 8/19 approved changesets -- score normalized to 4
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (4/10) — Found 8/19 approved changesets -- score normalized to 4
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install sampler
 
 ## 流行度
 
-- **Star**: 14,808 · **Fork**: 667 · **开放 issue**: 90 · **贡献者**: 14
+- **Star**: 14,810 · **Fork**: 667 · **开放 issue**: 90 · **贡献者**: 14
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install sampler
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-07-09 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-04-10 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-10-12 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last720d | 2024-10-17 | 0 | 0 | 2 | 0 | 6 | 0 |
+| 30d | 2026-09-08 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-07-10 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-04-11 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-10-13 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last720d | 2024-10-18 | 0 | 0 | 2 | 0 | 6 | 0 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ sampler 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T07:24:53Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T07:27:55Z._
