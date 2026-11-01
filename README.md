@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,811 · **Forks**: 670 · **Open issues**: 90 · **Contributors**: 14
+- **Stars**: 14,812 · **Forks**: 670 · **Open issues**: 90 · **Contributors**: 14
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 26 · **Open PRs**: 7 · **Closed issues**: 33 · **Open issues**: 57 · **Commits**: 276
+- **Releases**: 7 · **Merged PRs**: 26 · **Open PRs**: 10 · **Closed issues**: 33 · **Open issues**: 57 · **Commits**: 276
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-09-01 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-08-02 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last180d | 2026-05-04 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 360d | 2025-11-05 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last720d | 2024-11-10 | 0 | 0 | 3 | 0 | 6 | 0 |
+| 30d | 2026-10-02 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last60d | 2026-09-02 | 0 | 0 | 5 | 0 | 0 | 0 |
+| 90d | 2026-08-03 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last180d | 2026-05-05 | 0 | 0 | 5 | 0 | 0 | 0 |
+| 360d | 2025-11-06 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last720d | 2024-11-11 | 0 | 0 | 6 | 0 | 6 | 0 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for sampler lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T07:00:41Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:26:53Z._
